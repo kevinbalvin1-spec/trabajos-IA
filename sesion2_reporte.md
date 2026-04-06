@@ -26,7 +26,7 @@ Un problema es que puede hacer que veas siempre lo mismo y crear una burbuja de 
 
 También puede volverse adictivo, porque siempre intenta mostrar cosas que te gusten mucho. Esto puede hacer que pierdas tiempo sin darte cuenta y afectar tu concentración o hábitos.
 
-## Tu opinión personal
+## Opinión personal
 
 Yo creo que el algoritmo de TikTok es muy bueno porque entiende rápido lo que te gusta. En poco tiempo ya te muestra contenido interesante y eso hace que la aplicación sea entretenida.
 
